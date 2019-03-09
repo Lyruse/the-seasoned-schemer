@@ -195,7 +195,7 @@
 ;
 (union-letrec
   '(tomatoes and macaroni casserole)
-  '(macaroni and cheese)) ; '(tomatoes and macaroni casserole cheese)
+  '(macaroni and cheese)) ; '(tomatoes casserole macaroni and cheese)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;                                                                            ;
@@ -228,7 +228,7 @@
 ;
 (union-letrec-protected
   '(tomatoes and macaroni casserole)
-  '(macaroni and cheese)) ; '(tomatoes and macaroni casserole cheese)
+  '(macaroni and cheese)) ; '(tomatoes casserole macaroni and cheese)
 
 ; Fixing M? to follow 12th commandment
 ;
