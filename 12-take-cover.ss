@@ -175,7 +175,7 @@
 ;
 (union
   '(tomatoes and macaroni casserole)
-  '(macaroni and cheese)) ; '(tomatoes and macaroni casserole cheese)
+  '(macaroni and cheese)) ; '(tomatoes casserole macaroni and cheese)
 
 ; union via letrec
 ;
